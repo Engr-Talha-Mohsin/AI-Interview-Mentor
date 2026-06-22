@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 The Interview Mentor
 
 > **AI-Powered Interview Preparation for Software Engineers**
@@ -382,3 +383,7 @@ Contributions welcome! Please read our [Contributing Guide](./CONTRIBUTING.md).
 <p align="center">
   ⭐ Star this repo if it helps you land your dream job! ⭐
 </p>
+=======
+# AI-Interview-Mentor
+AI-powered interview preparation platform with mock interviews, feedback, and skill assessment.
+>>>>>>> 8b304d3a7260004ce3f16c6084f1bbbf5359f554
